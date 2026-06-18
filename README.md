@@ -4,11 +4,15 @@
 <a href="https://www.linkedin.com/in/isaac-camargo-16b370281/">
 <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+
 Estudante de Engenharia de Software com experiência prática em desenvolvimento backend, automação de processos, integração de sistemas e soluções orientadas a dados.
 
 Atuo desenvolvendo workflows automatizados, integrações via APIs, processamento de dados e aplicações utilizando Python, Java, SQL e n8n. Também possuo experiência com Web Scraping, ETL, bancos de dados relacionais e aplicação de Inteligência Artificial Generativa em processos corporativos.
-
 Apaixonado por tecnologia, busco criar soluções escaláveis que conectem software, dados e automação para transformar processos complexos em operações simples e eficientes.
+ 
+ 
+ 
  <a href="https://github.com/IsaacCamargo?tab=followers">
         <img 
             alt="Seguidores" 

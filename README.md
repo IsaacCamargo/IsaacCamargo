@@ -96,3 +96,12 @@ title="Git"
 width="40px"
 style="padding-right: 10px; vertical-align: middle;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
+
+
+ <img
+ align="left"
+ alt="N8N"
+ tittle="N8N"
+ widht="40px"
+ style="padding-right: 10px; vertical-align: middle;"
+ src="file:///C:/Users/Isaac%20Jesus/Downloads/n8n.svg"
